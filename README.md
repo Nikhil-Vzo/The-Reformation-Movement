@@ -1,4 +1,4 @@
-# 🌍 The Reformation Movement — Official Web Portal
+# 🌍 The Reformation Movement — Official Web Portal (one of first works of me literally its oldest work of me)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -27,15 +27,7 @@ The Reformation Movement is dedicated to building sustainable, youth-led civic s
 
 ---
 
-## 🚀 Running Locally
 
-```bash
-git clone https://github.com/Nikhil-Vzo/The-Reformation-Movement.git
-cd The-Reformation-Movement
-
-# Open index.html in any browser or launch local server:
-npx serve .
-```
 
 ---
 
